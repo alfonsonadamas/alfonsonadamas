@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Hi, I'm Alfonso Gallardo 🖐️</h1>
+    <h2>Software Engineer & Web Developer</h2>
 </body>
 </html>
