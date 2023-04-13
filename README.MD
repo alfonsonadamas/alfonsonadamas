@@ -13,5 +13,10 @@
         <li>🔧 I develop my projects using HTML, CSS and Javascript </li>
         <li>💭 Actually Learnign: React⚛️</li>
     </ul>
+
+    <h2>Contact</h2>
+    <a href="">Email</a>
+    <a href="">Portfolio</a>
+    <a href="">Linkedln</a>
 </body>
 </html>
