@@ -10,7 +10,8 @@
     <h2>I'm a Software Engineer & Frontend Web Developer</h2>
     <ul>
         <li>🖥️ I'm a developer from Mexico who </li>
-        <li>💭 Actually Learnign: React ⚛️</li>
+        <li>🔧 I develop my projects using HTML, CSS and Javascript </li>
+        <li>💭 Actually Learnign: React⚛️</li>
     </ul>
 </body>
 </html>
