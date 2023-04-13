@@ -8,5 +8,9 @@
 <body>
     <h1>Hi there 👋</h1>
     <h2>I'm a Software Engineer & Frontend Web Developer</h2>
+    <ul>
+        <li>🖥️ I'm a developer from Mexico who </li>
+        <li>💭 Actually Learnign: React ⚛️</li>
+    </ul>
 </body>
 </html>
