@@ -9,14 +9,10 @@
     <h1>Hi there 👋</h1>
     <h2>I'm a Software Engineer & Frontend Web Developer</h2>
     <ul>
-        <li>🖥️ I'm a developer from Mexico who </li>
+        <li>🖥️ I am a developer from Mexico who is currently working on web projects.</li>
         <li>🔧 I develop my projects using HTML, CSS and Javascript </li>
         <li>💭 Actually Learnign: React⚛️</li>
     </ul>
-
-    <h2>Contact</h2>
-    <a href="">Email</a>
-    <a href="">Portfolio</a>
-    <a href="">Linkedln</a>
+    
 </body>
 </html>
