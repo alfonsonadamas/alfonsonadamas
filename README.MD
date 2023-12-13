@@ -11,7 +11,7 @@
     <ul>
         <li>🖥️ I am a developer from Mexico who is currently working on web projects.</li>
         <li>🔧 I develop my projects using HTML, CSS and Javascript </li>
-        <li>💭 Actually Learnign: React⚛️</li>
+        <li>💭 Actually Learning: PostgresSql</li>
     </ul>
     
 </body>
